@@ -210,8 +210,8 @@ void User::findBook()
 
 void User::displayDeveloperInfo()
 {
-    cout << "\nDeveloper: Mingma Sherpa\n";
-    cout << "Student ID: 12345678\n";
-    cout << "Contact: 0412345678\n";
+    cout << "\nDeveloper: Mingma Tenzing Sherpa\n";
+    cout << "Student ID: 202471178\n";
+    cout << "Contact: 0420639689\n";
     cout << "Completed: June 2025\n";
 }

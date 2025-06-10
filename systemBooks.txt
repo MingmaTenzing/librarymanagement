@@ -1,6 +1,5 @@
 B001,The Alchemist,Fiction
 B002,Introduction to Algorithms,Education
 B003,1984,Dystopian
-B004,The Hobbit,Fantasy
-30,Can't hurt me,education
 B012,Beautiful life,life
+B005,Clean Code,Programming
